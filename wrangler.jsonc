@@ -1,0 +1,9 @@
+{
+  "name": "gid-site-proxy",
+  "main": "src/index.js",
+  "compatibility_date": "2025-01-01",
+  "vars": {
+    "ORIGIN": "https://getitdone.world",
+    "LOOKUP_URL": "https://example.com/lookup"
+  }
+}
